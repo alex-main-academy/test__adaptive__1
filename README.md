@@ -1,1 +1,1 @@
-# test__adaptive__1
+https://alex-main-academy.github.io/test__adaptive__1/
